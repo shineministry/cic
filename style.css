@@ -1,0 +1,12 @@
+body {
+  font-family: serif;
+  margin: 2rem;
+  background-color: #f9f9f9;
+}
+#canon-container {
+  margin-top: 2rem;
+}
+.canon {
+  border-bottom: 1px solid #ccc;
+  padding: 1rem 0;
+}
